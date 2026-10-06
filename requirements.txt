@@ -1,0 +1,3 @@
+matplotlib>=3.7
+numpy>=1.24
+PyMuPDF>=1.23      # only the collision audit needs it; the text audit is stdlib-only

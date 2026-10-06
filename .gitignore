@@ -1,0 +1,5 @@
+# The example writes here when run; its output is not part of the skill.
+examples/out/
+__pycache__/
+*.pyc
+.venv/
